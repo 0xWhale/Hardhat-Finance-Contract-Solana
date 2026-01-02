@@ -1,0 +1,34 @@
+const txHash = "0xbd66147a4f30b214e968e0b9e7bf0ce1ef6939070ea7c019401e30f1271d848c";
+const transactionHash = "0x135cf6e40b78792f04ed3783195d475650ef07154f6a1b4446abbdd0e43b766c";
+const privateKey = "0xc45b8a911e72c90938cce9abd2d518f1a6a5daf9270565be9176b029193090f1";
+var txHash = "0xcc6a042ac473528acdb26c7edcf438cc4b120272145d7ce7081e09c918d233b4";
+var transactionHash = "0xf37cae28b5eae6e57d5ced2504206d2705d891d4f60ca60f3e7f44210a3f9bb4";
+var privateKey = "0x89334bb11201e785dfe887e6e79b211aa45edb2414766748058f44923c8da5db";
+
+"0x59262201bbd59d797983020eff4bdce2dd00c751bcd18740604b499e702bbcab"
+hash: 0x8532bfefec7815182dc5fe94ac715578160a57571020d27bfb4980f6170f3965
+privatekey: 0x932f25ce5d7efc5965811783e4f116989686cb9b58703f501538b6614d948ac3
+accounts: 0x987bdbdcd9d7eeff05a84316d60f934d5c96839ada92677e97cab5e336cf2771
+0x3e65b5beb3336d68bdee92b7024253788ddd4c1f928aa1c1534a4869213b088a
+
+
+17568792e8d89dced318e9c1be045d1637a92ee32fee7b23b4db79a8c38679d0
+
+Private_Key = 08e9d8118ce1b87ba698b26011868e5cb31d108ce300fdfd118073ba8ab3c7a0
+
+
+"6a9beb54df20de15a39b163be20b3ada9449ca2d98c4d3bedebaecdeeb27cbdf"
+
+dc1b847c1ffaa7c8866f042bcd9dbb828221f0cba47647562241c3884fcdc108
+
+mnemonic: web patch oval end require fun comfort physical faint yellow okay coil pizza pen gain
+
+opera candy area monkey below grief cook vast favorite diary foil zone
+
+7HudRN4psryYduexFzH4NkvZgmdYDXByvfHhfs1dmk7uFBfGL6F3EMuc2gydNNwrQnLA6DVTDbMJrPRqwcz5Vqv
+
+solana: 7HudRN4psryYduexFzH4NkvZgmdYDXByvfHhfs1dmk7uFBfGL6F3EMuc2gydNNwrQnLA6DVTDbMJrPRqwcz5Vqv
+
+3w43tbGWXxcisGAjTqLW4kgnR17sHR9bEzNGU4EmQAU8HyipoAPJRMmJc86zkSLQrHKLo38U6jRZr7sFSdJiXkS8
+
+park misery approve earth dress people minor have finish saddle liquid april camera razor attract load turkey manage fever jungle chase nice panel consider
